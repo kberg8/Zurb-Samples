@@ -2,3 +2,7 @@ table, tr {
 	width: 100%;
 	text-align: center;
 }
+
+.reveal-modal-bg {
+	background: rgba(0,255,0,.5);
+}
